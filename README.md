@@ -1,4 +1,4 @@
-Title-Currency Converter
+<h1>Title-Currency Converter</h1>
 <p>
   Overview:
 The Currency Converter project is a web application that enables users to convert currencies between 159 different countries. This interactive tool utilizes HTML for structuring, CSS for styling,
