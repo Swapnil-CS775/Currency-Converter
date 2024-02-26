@@ -6,28 +6,28 @@ and JavaScript for functionality. The key concepts employed in the JavaScript co
 
 <h3>Key Features:</h3>
 
-User-Friendly Interface:
+<h5>User-Friendly Interface:</h5>
 The project boasts an intuitive and user-friendly interface, allowing users to effortlessly navigate and utilize the currency conversion functionalities.
 
-Currency Selection with Flag Display:
+</h5>Currency Selection with Flag Display:</h5>
 Users not only have the flexibility to choose the source and target currencies from a comprehensive list of 159 countries, but also experience a visual element with the display of the selected
 country's flag. This engaging feature enhances the overall user experience.
 
-Real-time Currency Rates:
+<h5>Real-time Currency Rates:</h5>
 The application fetches real-time currency exchange rates from an open-source Currency API. This ensures that the conversions are based on the latest market rates, providing users with accurate and
 up-to-date results.
 
-DOM Manipulation:
+<h5>DOM Manipulation:</h5>
 The Document Object Model (DOM) is leveraged to dynamically update the content on the webpage without requiring a page reload. This allows for a seamless and responsive user experience.
 
-Asynchronous Programming:
+<h5>Asynchronous Programming:</h5>
 Asynchronous JavaScript operations are implemented using Promises, ensuring that the fetching of currency exchange rates does not block the main thread. This enhances the efficiency of the application, 
 preventing delays in responsiveness.
 
-Async/Await:
+<h5>Async/Await:</h5>
 The code utilizes the async/await syntax to handle asynchronous operations in a more readable and concise manner. This makes the codebase cleaner and easier to maintain, improving overall project quality.
 
-Error Handling:
+<h5>Error Handling:</h5>
 Robust error-handling mechanisms are implemented to manage potential issues such as network errors or invalid user inputs. Users are provided with clear error messages, enhancing the overall reliability of 
 the application.
 
