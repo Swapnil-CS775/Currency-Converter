@@ -4,7 +4,7 @@
 The Currency Converter project is a web application that enables users to convert currencies between 159 different countries. This interactive tool utilizes HTML for structuring, CSS for styling,
 and JavaScript for functionality. The key concepts employed in the JavaScript code include DOM manipulation, asynchronous programming with Promises, and the use of an open-source Currency API.
 
-Key Features:
+<h3>Key Features:</h3>
 
 User-Friendly Interface:
 The project boasts an intuitive and user-friendly interface, allowing users to effortlessly navigate and utilize the currency conversion functionalities.
