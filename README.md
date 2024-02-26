@@ -33,9 +33,9 @@ the application.
 
 <h3>Technologies Used:</h3>
 
-<bold>HTML:</bold> Used for creating the structure of the web page.
-<bold>CSS:</bold> Employed for styling the interface and ensuring a visually appealing design.
-<bold>JavaScript (ES6+):</bold> Utilized for DOM manipulation, asynchronous programming, and implementing the core currency conversion logic.
+<h6>HTML:</h6> Used for creating the structure of the web page.
+<h6>CSS:</h6> Employed for styling the interface and ensuring a visually appealing design.
+<h6>JavaScript (ES6+):</h6> Utilized for DOM manipulation, asynchronous programming, and implementing the core currency conversion logic.
 Currency API: Integrated an open-source Currency API to fetch real-time exchange rates.
 
 <h3>Conclusion:</h3>
