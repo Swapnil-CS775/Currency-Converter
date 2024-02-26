@@ -8,7 +8,10 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-color: #f4e4ba;
+  background-color: #c4fff9;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .container {
@@ -75,8 +78,8 @@ form input {
 
 form button {
   height: 3rem;
-  background-color: #af4d98;
-  color: #fff;
+  background-color: #07beb8;
+  color: black;
   font-size: 1.15rem;
   cursor: pointer;
 }
