@@ -20,6 +20,7 @@ body {
   border-radius: 1rem;
   min-height: 45vh;
   width: 40vh;
+  margin:0rem 2rem;
 }
 
 form {
